@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558255502353",
+    "firebase_url": "https://policescabbwe.firebaseio.com",
+    "project_id": "policescabbwe",
+    "storage_bucket": "policescabbwe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558255502353:android:85818a6675c1d2543a2db0",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558255502353-ceuh2h5e2mig60c6julogdg23u1sb9jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTKoJXtFqugz5850wAwC1If0PO0mK7qDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558255502353-ceuh2h5e2mig60c6julogdg23u1sb9jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

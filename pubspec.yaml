@@ -11,6 +11,14 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  firebase_core: ^0.4.2+1
+  cloud_firestore: ^0.12.11
+  firebase_auth: ^0.15.1
+  modal_progress_hud: ^0.1.3
+  image_picker: ^0.6.2+1
+  firebase_storage: ^3.0.8
+
+
 
 dev_dependencies:
   flutter_test:
@@ -21,3 +29,7 @@ flutter:
 
   assets:
   - images/
+  fonts:
+  - family: fonts1
+    fonts:
+    - asset: fonts/Girassol-Regular.ttf
